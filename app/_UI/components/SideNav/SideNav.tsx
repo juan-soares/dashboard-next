@@ -1,3 +1,9 @@
+import { NavLinks } from "../NavLinks";
+
 export function SideNav() {
-  return <nav>SIDENAV</nav>;
+  return (
+    <nav>
+      <NavLinks />
+    </nav>
+  );
 }

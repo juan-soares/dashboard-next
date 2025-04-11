@@ -10,8 +10,10 @@ https://github.com/vercel/next-learn/blob/main/dashboard/starter-example/public/
 - Styling with CSS Modules,
 - Font optimization with next/font,
 - Image optimization with next/image,
+- Client-side navigation prefetching optization with next/link,
 - Nested routing and route segment with Next File-System Routing,
 - Shared UI between multiple pages with Next Layout,
+- Interactive icons with HeroIcons,
 
 ## Getting Started
 
