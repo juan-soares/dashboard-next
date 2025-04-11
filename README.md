@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages
+https://nextjs.org/learn/dashboard-app/fetching-data
+
 https://github.com/vercel/next-learn/blob/main/dashboard/starter-example/public/hero-desktop.png
 
 ## Feats
